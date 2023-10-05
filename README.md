@@ -47,7 +47,5 @@ https://github.com/fahimmahatab/Orangehrm-Project-TestNG/assets/43899673/40b6994
 https://github.com/fahimmahatab/Orangehrm-Project-TestNG/assets/43899673/2f7ab6ea-3701-4a9c-8714-ba9fca9041a0
 
 ## Test Cases:
-[Regression Test Cases.xlsx](https://github.com/fahimmahatab/Orangehrm-Project-TestNG/files/12812459/Regression.Test.Cases.xlsx)
-
-
+[Test Cases.xlsx](https://github.com/fahimmahatab/Orangehrm-Project-TestNG/files/12812511/Test.Cases.xlsx)
 
